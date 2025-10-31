@@ -1,6 +1,0 @@
-    body {font-family: 'Poppins', sans-serif; margin: 20px; background-color: white; }
-    h2 { color: #000000; }
-    table {width: 60%; border-collapse: collapse; margin-bottom: 30px;} th, td {border: 2px solid hsl(0, 0%, 0%); padding: 15px; text-align: center; } 
-    th { background-color: #3078a8; color: rgb(0, 0, 0); }
-    tr:nth-child(even) { background-color: #ffffff; }
-    .highlight { background-color: #000000; }
